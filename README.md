@@ -1,6 +1,6 @@
-Sistema de Gestion de Calidad - Grupo 13
+# Sistema de Gestion de Calidad - Grupo 13
 
-Descripcion del Sistema:
+#Descripcion del Sistema:
 
 Programacion para el front-end
 *HTML
