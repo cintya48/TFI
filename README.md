@@ -20,8 +20,8 @@ Documentacion:
 
 
 ### Docentes:
--Docente de Teoría: Nieto Peñalver Luis Eduardo
-*Docente de Prática: Vicente Fancisco
+- Docente de Teoría: Nieto Peñalver Luis Eduardo
+- Docente de Prática: Vicente Fancisco
 
 
 ### Integrantes
